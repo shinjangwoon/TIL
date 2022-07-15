@@ -134,3 +134,4 @@ dmypy.json
 *.v2
 *.tfevents
 *.zip
+*.png
