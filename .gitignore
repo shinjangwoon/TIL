@@ -135,3 +135,13 @@ dmypy.json
 *.tfevents
 *.zip
 *.png
+*.xml
+*.txt
+*.jpeg
+*.tfrecord-00000-of-00001
+*.tfrecord-00000-of-00002
+*.data-00000-of-00002
+*.data-00000-of-00002
+*.data-00001-of-00002
+*.index
+checkpoint
