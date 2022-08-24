@@ -150,4 +150,8 @@ checkpoint
 *.bmp
 *.caffemodel
 *.pbtxt
+*.parquet
 *.prototxt
+*.checkpoint
+*.yml
+*.pickle
