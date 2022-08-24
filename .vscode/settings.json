@@ -1,5 +1,7 @@
 {
     "jupyter.jupyterServerType": "local",
     "python.pythonPath": "C:\\Users\\wkddn\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.9",
-    "files.encoding": "euckr"
+    "files.encoding": "euckr",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
 }
